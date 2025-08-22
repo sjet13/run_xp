@@ -147,12 +147,9 @@ def progress_bar(current: int, total: int, width: int = 20) -> str:
 
 from datetime import date as date_cls
 
-
-
-
-
-
 # ---------- Menu actions ----------
+
+# This is a Test Line
 
 # List Runs
 def action_list_runs(state: GameState):
