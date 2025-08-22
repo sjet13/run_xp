@@ -16,26 +16,19 @@
     },
     {
       "date": "2025-08-22",
-      "distance_km": 22.0,
-      "duration_min": 22.383333333333333,
+      "distance_km": 18.0,
+      "duration_min": 35.53333333333333,
       "notes": "",
-      "xp_awarded": 224
+      "xp_awarded": 187
     }
   ],
-  "total_xp": 583,
+  "total_xp": 446,
   "settings": {
     "xp_per_km": 10,
     "xp_per_5min": 1,
-    "level_base_xp": 100,
-    "level_growth": 1.25,
-    "weekly_runs_target": 3,
-    "weekly_bonus_xp": 200,
-    "monthly_runs_target": 12,
-    "monthly_bonus_xp": 300,
-    "last_save": "2025-08-22T19:58:21"
+    "last_save": "2025-08-22T18:10:28"
   },
   "weekly_bonus_awarded": [
     "2025-W33"
-  ],
-  "monthly_bonus_awarded": []
+  ]
 }
